@@ -1,19 +1,17 @@
 {
-  "version": "7",
-  "dialect": "postgresql",
   "entries": [
     {
       "idx": 0,
       "version": "7",
-      "when": 1751939273977,
-      "tag": "0000_flowery_screwball",
+      "when": 1752450720384,
+      "tag": "0000_previous_liz_osborn",
       "breakpoints": true
     },
     {
       "idx": 1,
       "version": "7",
-      "when": 1752022393130,
-      "tag": "0001_polite_the_spike",
+      "when": 1752451224403,
+      "tag": "0001_fat_hemingway",
       "breakpoints": true
     }
   ]
